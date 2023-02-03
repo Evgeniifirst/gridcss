@@ -13,7 +13,7 @@
 
 .nav-list a {
 	display: block;
-	padding: 1em;
+	padding: 1em ;
 	text-decoration: none;
 	color: white;
 }
@@ -24,6 +24,11 @@
 
 .nav-btn {
 	display: none;
+}
+
+.navbar img{
+	display: inline-block;
+	margin: 12px 0.5em 12px 0.5em;
 }
 
 @media (max-width: 1000px) {
